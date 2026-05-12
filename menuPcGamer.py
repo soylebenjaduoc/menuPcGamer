@@ -1,1 +1,1 @@
-print ("Hola funciona ono hola")
+print ("HOLA")
