@@ -168,7 +168,7 @@ Qué juego desea probar?
                     print (f"The Forest te correrá a: {fps} FPS")
                 elif opfps == 6:
                     fps = int(rendimientobase * 1)
-                    print (f"Sekiro: Shados Die Twice te correrá a: {fps} FPS")
+                    print (f"Sekiro: Shadows Die Twice te correrá a: {fps} FPS")
                 elif opfps == 7:
                     fps = int(rendimientobase * 0.8)
                     print (f"Resident Evil 4 Remake te correrá a: {fps} FPS")
