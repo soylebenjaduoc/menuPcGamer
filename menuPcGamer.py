@@ -183,6 +183,6 @@ Qué juego desea probar?
             
 
     if opmenu == 3:
-       costo = 0 ; puntos = 0 ; vuelto = 0 ; tiene_pc = False
+       costo = 0 ; puntos = 0 ; vuelto = 0 ; tiene_pc = False ; multiplicador = 0 
        print ("PC Vendido con éxito")
     
